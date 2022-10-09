@@ -1,0 +1,46 @@
+.a2 {
+    text-decoration: none;
+    text-align: center;
+}
+
+input {
+    text-align: center;
+}
+
+.a2:hover {
+    text-decoration: underline;
+}
+
+.card2 {
+    text-align: center;
+    margin: 400px;
+    margin-top: -496px;
+    border: 2px solid red;
+}
+
+.card {
+    text-align: center;
+    border: 2px solid red;
+}
+
+.card3 {
+    text-align: center;
+    margin: 800px;
+    margin-top: -1043px;
+    border: 2px solid red;
+}
+
+.img2 {
+    margin: 500px;
+    margin-top: -496px;
+}
+
+.p1 {
+    margin: 500px;
+    margin-top: -496px;
+}
+
+.p2 {
+    margin: 500px;
+    margin-top: -496px;
+}

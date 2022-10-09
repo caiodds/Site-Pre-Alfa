@@ -1,0 +1,19 @@
+{
+    "name": "rhyan/rhyan",
+    "description": "Projeto-JS",
+    "license": "MIN",
+    "autoload": {
+        "psr-4": {
+            "Rhyan\\Rhyan\\": "src/"
+        }
+    },
+    "scripts" : {
+        "start": "php -S 0.0.0.0:9000 -t src/public"
+   },
+    "authors": [
+        {
+            "name": "Caio"
+        }
+    ],
+    "require": {}
+}
