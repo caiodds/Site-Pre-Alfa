@@ -32,6 +32,9 @@
         <li class="nav-item">
           <a class="nav-link disabled text-light" href="" tabindex="-1" aria-disabled="true"><i class="fas fa-bell-slash"></i>Disabled</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link  text-light" data-target="app.html" href="" tabindex="-1" aria-disabled="true"><i class="fas fa-file-download"></i> Download Do Nosso app</a>
+        </li>
       </ul>
     </div>
   </div>
